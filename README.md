@@ -1,4 +1,6 @@
 # nix-dotfiles
 nixOS dotfiles so that i dont go insane moving systems 
 
-i love rudroneel
+i love nixos pls work nixos
+
+i love rudro
